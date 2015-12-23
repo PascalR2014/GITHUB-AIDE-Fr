@@ -5,6 +5,10 @@ Contactez l'auteur: @pashrichet, ou pashlord@gmail.com.
 
 +Synthèses des difficultés et cas courants que l'on peut avoir sur Github.
 
+SOMMAIRE
+
+
+
 
 +Ressources et liens intéressants sur le sujet.
 
