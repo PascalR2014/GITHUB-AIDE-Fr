@@ -11,14 +11,14 @@ SOMMAIRE
 2-
 
 
-
-
 +Ressources et liens intéressants sur le sujet.
 
-Je conseille en particulier un excellent tutoriel sur Openclassrooms de Marc G Gauthier
+* Je conseille en particulier un excellent tutoriel sur Openclassrooms de Marc G Gauthier
 Link : https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github
 
-Vous avez aimer, mettez un commentaire et une petite étoile ou plusieurs ;-)
+* [ Libre consultation ] Manuel en français utiliser correctement Github !
+
+Vous appréciez ce travail mettez un commentaire et une petite étoile ou plusieurs ;-)
 
 Merci pour votre consultation.
 
