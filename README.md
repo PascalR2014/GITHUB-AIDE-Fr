@@ -6,7 +6,7 @@ Vous avez aimer le cours, merci, de mettre un commentaire et une petite étoile 
 
 Merci d'avoir au moins survolé le contenu.
 
-Contactez l'auteur: #@pashrichet, ou pashlord@gmail.com.
+Contactez l'auteur: @pashrichet, ou pashlord@gmail.com.
 
 Pascal Richet
 
