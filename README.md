@@ -1,17 +1,17 @@
 # Github_ aide en français 
 
-Contributors : PascalR2014
+Contributor : PascalR2014
 Contactez l'auteur: @pashrichet, ou pashlord@gmail.com.
 
 +Synthèses des difficultés et cas courants que l'on peut avoir sur Github.
 
 SOMMAIRE
 
-1-Créer votre premier répertoire [repository]. (A revoir !)
-2-
+1- Difficultés connus du débutant, "Gither".
+2- [ Modification prévus des infos ] Créer votre premier [repository], dossier sur github. 
 
 
-+Ressources et liens intéressants sur le sujet.
++ Tutoriels et liens intéressants sur le sujet.
 
 * Je conseille en particulier un excellent tutoriel sur Openclassrooms de Marc G Gauthier
 Link : https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github
