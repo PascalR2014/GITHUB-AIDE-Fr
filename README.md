@@ -1,8 +1,5 @@
 # Aide-FAQ + manuel sur l'utilisation correct de GITHUB
 
-Contributor : PascalR2014
-Contact: @pashrichet, ou pashlord@gmail.com.
-
 +Difficultés et cas courants que l'on peut avoir sur Github.
 
 +SOMMAIRE
@@ -22,6 +19,7 @@ Vous appréciez ce travail mettez un commentaire et une petite étoile ou plusie
 
 Merci pour votre consultation.
 
-Pascal Richet
+Contributor : PascalR2014
+Contact: @pashrichet, ou pashlord@gmail.com.
 
 
