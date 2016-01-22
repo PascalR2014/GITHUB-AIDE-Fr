@@ -1,10 +1,11 @@
 # Aide-FAQ + manuel sur l'utilisation correct de GITHUB
 
-+Difficultés et cas courants que l'on peut avoir sur Github.
+Difficultés et cas courants que l'on peut avoir sur Github.
 
-+SOMMAIRE
+SOMMAIRE
 
 1- Difficultés connus du débutant, "Git-user".
+
 2- [ Modification prévus des infos ] Créer votre premier [repository], dossier sur github. 
 
 
