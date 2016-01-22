@@ -1,13 +1,13 @@
-# Github_ aide en français 
+# Aide-FAQ + manuel sur l'utilisation correct de GITHUB
 
 Contributor : PascalR2014
-Contactez l'auteur: @pashrichet, ou pashlord@gmail.com.
+Contact: @pashrichet, ou pashlord@gmail.com.
 
-+Synthèses des difficultés et cas courants que l'on peut avoir sur Github.
++Difficultés et cas courants que l'on peut avoir sur Github.
 
-SOMMAIRE
++SOMMAIRE
 
-1- Difficultés connus du débutant, "Gither".
+1- Difficultés connus du débutant, "Git-user".
 2- [ Modification prévus des infos ] Créer votre premier [repository], dossier sur github. 
 
 
