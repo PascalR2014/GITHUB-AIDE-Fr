@@ -1,26 +1,20 @@
-# Aide-FAQ + manuel sur l'utilisation correct de GITHUB
+# Manuel d'utilisation de Github, en français
 
-Difficultés et cas courants que l'on peut avoir sur Github.
+Bonjour à tous, après avoir rechercher sur internet s'il existe du contenu pour aider ceux qui débute avec les commandes de Git et le site de versionning de Github.
 
-SOMMAIRE
+Etant donner que moi-même j'ai eu beaucoup de mal à trouver des informations pertinentes dans ma langue maternelle et que cela fait quelques années que j'utilise ce site, j'ai pensé qu'il vous serait utile, chers lecteurs, de vous proposez des tutoriels pour vous aider dans cette tâche.
 
-1- Difficultés connus du débutant, "Git-user".
+Je vais proposer des cours sur Udemy dans le cours de l'année 2020, si j'en trouve le temps !!
 
-2- [ Modification prévus des infos ] Créer votre premier [repository], dossier sur github. 
+Cordialement.
 
+PR.
 
-+ Tutoriels et liens intéressants sur le sujet.
+PS: J'espère que vous avez apprécier ce travail et n'hésitez pas à m'encourager en ajoutant pourquoi pas une étoile à ce dépôt. Merci d'avance !!
 
-* Je conseille en particulier un excellent tutoriel sur Openclassrooms de Marc G Gauthier
-Link : https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github
-
-* [ Libre consultation ] Manuel en français utiliser correctement Github !
-
-Vous appréciez ce travail mettez un commentaire et une petite étoile ou plusieurs ;-)
-
-Merci pour votre consultation.
+N'hésitez pas à proposer votre aide !!
 
 Contributor : PascalR2014
-Contact: @pashrichet, ou pashlord@gmail.com.
 
+[Twitter](@pashCodeur007) - [Email](codeur1design@gmail.com)	 
 
